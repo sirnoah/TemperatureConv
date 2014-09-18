@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConv", "TemperatureConv.csproj", "{93B969A8-A78B-4637-AD95-0BE40C116F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B969A8-A78B-4637-AD95-0BE40C116F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B969A8-A78B-4637-AD95-0BE40C116F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B969A8-A78B-4637-AD95-0BE40C116F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B969A8-A78B-4637-AD95-0BE40C116F57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

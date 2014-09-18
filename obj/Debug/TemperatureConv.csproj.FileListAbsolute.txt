@@ -1,0 +1,9 @@
+C:\Users\programmer\AppData\Local\Temporary Projects\TemperatureConv\bin\Debug\TemperatureConv.exe.config
+C:\Users\programmer\AppData\Local\Temporary Projects\TemperatureConv\bin\Debug\TemperatureConv.exe
+C:\Users\programmer\AppData\Local\Temporary Projects\TemperatureConv\bin\Debug\TemperatureConv.pdb
+C:\Users\programmer\AppData\Local\Temporary Projects\TemperatureConv\obj\Debug\TemperatureConv.csprojResolveAssemblyReference.cache
+C:\Users\programmer\AppData\Local\Temporary Projects\TemperatureConv\obj\Debug\TemperatureConv.exe
+C:\Users\programmer\AppData\Local\Temporary Projects\TemperatureConv\obj\Debug\TemperatureConv.pdb
+E:\School\COSC 1415\AssignmentExamples\Assignment3\TemperatureConv\bin\Debug\TemperatureConv.exe.config
+E:\School\COSC 1415\AssignmentExamples\Assignment3\TemperatureConv\obj\Debug\TemperatureConv.exe
+E:\School\COSC 1415\AssignmentExamples\Assignment3\TemperatureConv\obj\Debug\TemperatureConv.pdb
